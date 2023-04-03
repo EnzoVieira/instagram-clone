@@ -6,6 +6,13 @@ This is an Instagram clone built with React Native.
 
 https://user-images.githubusercontent.com/73349819/229628996-d470014e-2515-47c1-8712-0d299b93f974.mp4
 
+## Features
+
+- [x] Home page
+- [ ] Connection with API
+- [ ] Authentication
+- [ ] Chat
+
 ## Technologies Used
 
 - React
